@@ -76,7 +76,7 @@ public class DetallePersona extends AppCompatActivity {
 
         //LOS TEXTOS EN ESTE SEGMENTO DE CÓDIGO ESTAN FORAZADOS. USAR EL VALUE STRING
         edad.setText("Edad: " + getString(item.getEdad_Persona()) + " años");
-        Profesion_Persona.setText("Profesión: " + getString(item.getCarrera_Persona()));
+        Profesion_Persona.setText("Carrera: " + getString(item.getCarrera_Persona()));
         EstadoCivil_persona.setText("Estado Civil: " + getString(item.getEstadoCivil_persona()));
         Numero_Persona.setText("Llamar");
         Facebook_Link.setText("Facebook");
