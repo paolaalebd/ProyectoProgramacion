@@ -4,16 +4,7 @@
 
     <!-- AGREGAR LOS DETALLES INDIVIDUALES DE USTEDES -->
 
-    <!-- PERSONA 1 -->
-    <string name="nombreP1">Martha Haydé Benítez Gómez</string>
-    <string name="descripcionP1">Eyes cannot see what your mind does not understand</string>
-    <string name="edadP1">22</string>
-    <string name="carreraP1">Ingeniería en Infotecnología</string>
-    <string name="estadocivilP1">Soltera</string>
-    <string name="telefonoP1">33121755</string>
-    <string name="emailP1">adelheid.bg@gmail.com</string>
-    <string name="facebookP1">facebook.com</string>
-    <string name="twitterP1">twitter.com</string>
+   
 
 <!-- PERSONA 3 -->
     <string name="nombreP3">Edy Oliva</string>
@@ -25,7 +16,17 @@
     <string name="emailP3">edy.oliva@ujcv.edu.hn</string>
     <string name="facebookP3">https://www.facebook.com/edy.oliva.5</string>
     <string name="twitterP3">https://twitter.com/edyoliiva</string>
-
+    
+ <!-- PERSONA 8 -->
+    <string name="nombreP8">Martha Haydé Benítez Gómez</string>
+    <string name="descripcionP8">Eyes cannot see what your mind does not understand</string>
+    <string name="edadP8">22</string>
+    <string name="carreraP8">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP8">Soltera</string>
+    <string name="telefonoP1">33121755</string>
+    <string name="emailP8">adelheid.bg@gmail.com</string>
+    <string name="facebookP8">https://www.facebook.com/</string> <!-- No tengo entonces pongo la de default -->
+    <string name="twitterP8">https://twitter.com/SmarthaBenitezG<</string>
 
 
 
