@@ -111,16 +111,18 @@ public class DetallePersona extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent mail = new Intent(Intent.ACTION_SEND);
-
-                mail.putExtra(Intent.EXTRA_EMAIL,new String[]{getString(item.getEmail_Persona())});
-
-                mail.putExtra(Intent.EXTRA_SUBJECT,"subject");
-
-                mail.putExtra(Intent.EXTRA_TEXT,"mensaje");
-
-                mail.setType("messege/rfc822");
-
+                Intent mail= new Intent(Intent.ACTION_SENDTO);
+                mail.setData(Uri.parse("mailto:" + getString(item.getEmail_Persona())));
+                startActivity(Intent.createChooser(mail, "Elige un cliente de correo"));
+            }
+        });
+        
+        Button botonEmail=(Button)findViewById(R.id.boton2);
+        botonEmail.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent mail= new Intent(Intent.ACTION_SENDTO);
+                mail.setData(Uri.parse("mailto:" + getString(item.getEmail_Persona())));
                 startActivity(Intent.createChooser(mail, "Elige un cliente de correo"));
             }
         });
