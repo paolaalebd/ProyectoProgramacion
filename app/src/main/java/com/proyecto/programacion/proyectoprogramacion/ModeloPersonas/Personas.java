@@ -53,6 +53,17 @@ public class Personas {
     public static final List<Personas> PERSONAS_LIST = new ArrayList<Personas>();
 
     static {
+        PERSONAS_LIST.add(new Personas(R.string.nombreP1,
+                        R.string.descripcionP1,
+                        R.string.edadP1,
+                        R.string.carreraP1,
+                        R.drawable.allan,
+                        R.string.estadocivilP1,
+                        R.string.telefonoP1,
+                        R.string.emailP1,
+                        R.string.facebookP1,
+                        R.string.twitterP1)
+                        
         PERSONAS_LIST.add(new Personas(R.string.nombreP3,
                         R.string.descripcionP3,
                         R.string.edadP3,
