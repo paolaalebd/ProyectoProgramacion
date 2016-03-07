@@ -3,7 +3,16 @@
     <string name="action_settings">Settings</string>
 
     <!-- AGREGAR LOS DETALLES INDIVIDUALES DE USTEDES -->
-
+<!-- PERSONA 1 -->
+    <string name="nombreP1">Allan Fernando Mejia Nolasco</string>
+    <string name="descripcionP1">Estudiante de Ingenieria en la UJCV</string>
+    <string name="edadP1">21</string>
+    <string name="carreraP1">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP1">Soltero</string>
+    <string name="telefonoP1">98011134</string>
+    <string name="emailP1">allan.mejia@ujcv.edu.hn</string>
+    <string name="facebookP1">https://www.facebook.com/allan.f.nolasco"</string>
+    <string name="twitterP1">https://twitter.com</string>
    
 
 <!-- PERSONA 3 -->
