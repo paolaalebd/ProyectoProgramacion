@@ -14,7 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import android.widget.Button;
 import com.bumptech.glide.Glide;
 import com.proyecto.programacion.proyectoprogramacion.ModeloPersonas.Personas;
 
