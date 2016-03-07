@@ -92,6 +92,19 @@ public class Personas {
 
                 
         );
+        PERSONAS_LIST.add(new Personas(R.string.nombreP9,
+                        R.string.descripcionP9,
+                        R.string.edadP9,
+                        R.string.carreraP9,
+                        R.drawable.paolabetancourt,
+                        R.string.estadocivilP9,
+                        R.string.telefonoP9,
+                        R.string.emailP9,
+                        R.string.facebookP9,
+                        R.string.twitterP9)
+
+                
+        );
 
     }
 
