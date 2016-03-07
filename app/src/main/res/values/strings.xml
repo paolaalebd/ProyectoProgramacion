@@ -36,9 +36,17 @@
     <string name="emailP8">adelheid.bg@gmail.com</string>
     <string name="facebookP8">https://www.facebook.com/</string> <!-- No tengo entonces pongo la de default -->
     <string name="twitterP8">https://twitter.com/SmarthaBenitezG</string>
-
-
-
+    
+    <!-- PERSONA 9 -->
+    <string name="nombreP9">Paola Alejandra Betancourt Diaz</string>
+    <string name="descripcionP9"> Estuadiante de ingenieria, Catolica (lo intento) y Musico en pausa (aun no llega momento xD) </string>
+    <string name="edadP9">21</string>
+    <string name="carreraP9">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP9>Soltera</string>
+    <string name="telefonoP9">99045814</string>
+    <string name="paolaalebd@gmail.com</string>
+    <string name="https://www.facebook.com/paolaale.betancourt</string>
+    <string name="https://twitter.com/Paolaalebd?lang=es</string>
 
     <string name="title_activity_detalle_persona">DetallePersona</string>
     <string name="large_text">
