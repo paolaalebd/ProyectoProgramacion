@@ -6,16 +6,16 @@
 
    
 
-<!-- PERSONA 3 -->
-    <string name="nombreP3">Edy Oliva</string>
-    <string name="descripcionP3">Futuro Ingeniero en Infotecnologia</string>
-    <string name="edadP3">20</string>
-    <string name="carreraP3">Ingeniería en Infotecnología</string>
-    <string name="estadocivilP3">Soltero</string>
-    <string name="telefonoP3">95889070</string>
-    <string name="emailP3">edy.oliva@ujcv.edu.hn</string>
-    <string name="facebookP3">https://www.facebook.com/edy.oliva.5</string>
-    <string name="twitterP3">https://twitter.com/edyoliiva</string>
+<!-- PERSONA 1 -->
+    <string name="nombreP1">Allan Fernando Mejia Nolasco</string>
+    <string name="descripcionP1">Estudiante de Ingenieria en la UJCV</string>
+    <string name="edadP1">21</string>
+    <string name="carreraP1">Ingeniería en Infotecnología</string>
+    <string name="estadocivilP1">Soltero</string>
+    <string name="telefonoP1">98011134</string>
+    <string name="emailP1">allan.mejia@ujcv.edu.hn</string>
+    <string name="facebookP1">https://www.facebook.com/allan.f.nolasco</string>
+    <string name="twitterP1">https://twitter.com</string>
     
  <!-- PERSONA 8 -->
     <string name="nombreP8">Martha Haydé Benítez Gómez</string>
