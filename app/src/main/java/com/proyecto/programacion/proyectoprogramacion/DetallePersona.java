@@ -14,7 +14,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Button;
+
 import com.bumptech.glide.Glide;
 import com.proyecto.programacion.proyectoprogramacion.ModeloPersonas.Personas;
 
@@ -105,7 +105,11 @@ public class DetallePersona extends AppCompatActivity {
                 startActivity(callIntent);
             }
         });
-        
+        Facebook_Link.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Intent.ACTION_VIEW,Uri.parse(getString(item.getFacebook_Link()))));
+            }
         Twitter_Link.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
